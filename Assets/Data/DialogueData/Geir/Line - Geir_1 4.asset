@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c539b9ff40cd278408618b6f444262a6, type: 3}
+  m_Name: Line - Geir_1 4
+  m_EditorClassIdentifier: 
+  dialogueGroupName: Geir
+  speaker: {fileID: 11400000, guid: 290c0693c16e2c3448923328e56c0b95, type: 2}
+  textLine:
+  - "My bond with this place tells me its power\u2019s anchor lies in the sanctum
+    deep inside. That should be the key."
+  playerChoiceAnswer: Fine. Do you know how to stop the outer god?
+  choiceLines:
+  - {fileID: 11400000, guid: da39d88d06932dc4b980ddf32d41c030, type: 2}
+  actionLine: 
+  actionType: 1

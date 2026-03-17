@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33a46cb74ff30a84193e8ac70e7b954e, type: 3}
+  m_Name: AudioDatabase
+  m_EditorClassIdentifier: 
+  player:
+  - audioName: player_attackHit
+    clips:
+    - {fileID: 8300000, guid: afc301e3cb991d543aae9d365cc49275, type: 3}
+    - {fileID: 8300000, guid: aa973ca4f3589a7419bd5c4bd343b077, type: 3}
+    - {fileID: 8300000, guid: 33d1f6c2ae37b8b4b97b5d73ee34667e, type: 3}
+    maxVolume: 0.8
+  - audioName: player_attackMiss
+    clips:
+    - {fileID: 8300000, guid: 4d30ade2f7d05454c9d80740b9057f7e, type: 3}
+    - {fileID: 8300000, guid: f1c9713554a3de745b7332787886aeeb, type: 3}
+    - {fileID: 8300000, guid: 21b5e71a55640d24283f07a4b931dd08, type: 3}
+    maxVolume: 1
+  - audioName: player_footstep
+    clips:
+    - {fileID: 8300000, guid: 580d900b01d5adc43aaa31332aa79096, type: 3}
+    maxVolume: 1
+  - audioName: player_dash
+    clips:
+    - {fileID: 8300000, guid: 8aa81f954100fb7489054cf036c84e4e, type: 3}
+    maxVolume: 0.8
+  - audioName: player_jump
+    clips:
+    - {fileID: 8300000, guid: 7c8c63f2e4b94e543b84bdb2d67b4b02, type: 3}
+    maxVolume: 1
+  uiAudio:
+  - audioName: button_click
+    clips:
+    - {fileID: 8300000, guid: 98b107109a4ce2242bdf7a044b5bfc73, type: 3}
+    maxVolume: 0.65
+  levelMusic:
+  - audioName: playlist_MainMenu
+    clips:
+    - {fileID: 8300000, guid: 171d29a99ee0aeb498388072b6a63ad5, type: 3}
+    maxVolume: 0.3
+  - audioName: playlist_level 0
+    clips:
+    - {fileID: 8300000, guid: bc73098a15b97a24683e40657cbc3d97, type: 3}
+    maxVolume: 0.3
+  - audioName: playlist_level 1
+    clips:
+    - {fileID: 8300000, guid: 7e6c5a854ab8ece4b882673a7f7fed1a, type: 3}
+    maxVolume: 0.3
+  - audioName: playlist_level 2
+    clips:
+    - {fileID: 8300000, guid: ea783487aacc4f54f976f96a3bd1383c, type: 3}
+    maxVolume: 0.3
+  - audioName: playlist_Ending
+    clips:
+    - {fileID: 8300000, guid: b03e5f1c8b3b2234b8241e55a0f0ce70, type: 3}
+    maxVolume: 0.3

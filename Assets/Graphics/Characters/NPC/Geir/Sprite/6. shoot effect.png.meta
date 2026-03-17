@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: d93def9c93b18fe45aa013f2defc287a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1316722875764614319
+    second: 6. shoot effect_0
+  - first:
+      213: -6814646985689215821
+    second: 6. shoot effect_1
+  - first:
+      213: 7105806292402634782
+    second: 6. shoot effect_2
+  - first:
+      213: -2378045686701967778
+    second: 6. shoot effect_3
+  - first:
+      213: -4557584846137801266
+    second: 6. shoot effect_4
+  - first:
+      213: -5213572850281219453
+    second: 6. shoot effect_5
+  - first:
+      213: -1769150675062454970
+    second: 6. shoot effect_6
+  - first:
+      213: 2012692042709032343
+    second: 6. shoot effect_7
+  - first:
+      213: 5162980116974093294
+    second: 6. shoot effect_8
+  - first:
+      213: -6267160522983196097
+    second: 6. shoot effect_9
+  - first:
+      213: -804401771162082558
+    second: 6. shoot effect_10
+  - first:
+      213: 883524884255739539
+    second: 6. shoot effect_11
+  - first:
+      213: 823564539725562610
+    second: 6. shoot effect_12
+  - first:
+      213: 4487679260327412984
+    second: 6. shoot effect_13
+  - first:
+      213: 7827147175621203067
+    second: 6. shoot effect_14
+  - first:
+      213: 5686691312706087942
+    second: 6. shoot effect_15
+  - first:
+      213: 11821331196335445
+    second: 6. shoot effect_16
+  - first:
+      213: 5562903901731770203
+    second: 6. shoot effect_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 6. shoot effect_0
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 61
+        width: 272
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4a49daa70f54210800000000000000
+      internalID: 1316722875764614319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_1
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcce4c0ca28d61a0800000000000000
+      internalID: -6814646985689215821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_2
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10056dbc25ec9260800000000000000
+      internalID: 7105806292402634782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_3
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0
+        width: 134
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ba702c0c7ffed0800000000000000
+      internalID: -2378045686701967778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_4
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 31
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5c044cab430c0c0800000000000000
+      internalID: -4557584846137801266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_5
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 50
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38afd588d1ba5a7b0800000000000000
+      internalID: -5213572850281219453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_6
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 29
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64582ca95d6b277e0800000000000000
+      internalID: -1769150675062454970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_7
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 43
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d5de7cfb48eeb10800000000000000
+      internalID: 2012692042709032343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_8
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 29
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee345aecf0796a740800000000000000
+      internalID: 5162980116974093294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_9
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 0
+        width: 304
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3c3d85b29609a0800000000000000
+      internalID: -6267160522983196097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_10
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 15
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203603dd9d036d4f0800000000000000
+      internalID: -804401771162082558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_11
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 19
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e084c7339e24c00800000000000000
+      internalID: 883524884255739539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_12
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 14
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f243ffd593ed6b00800000000000000
+      internalID: 823564539725562610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_13
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 19
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f404b1b280774e30800000000000000
+      internalID: 4487679260327412984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_14
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 19
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b749a9fd2ec9f9c60800000000000000
+      internalID: 7827147175621203067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_15
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 0
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c65299e9f2bee40800000000000000
+      internalID: 5686691312706087942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_16
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 5
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555dab6207ff92000800000000000000
+      internalID: 11821331196335445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6. shoot effect_17
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f4b5600a7633d40800000000000000
+      internalID: 5562903901731770203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      6. shoot effect_0: 1316722875764614319
+      6. shoot effect_1: -6814646985689215821
+      6. shoot effect_10: -804401771162082558
+      6. shoot effect_11: 883524884255739539
+      6. shoot effect_12: 823564539725562610
+      6. shoot effect_13: 4487679260327412984
+      6. shoot effect_14: 7827147175621203067
+      6. shoot effect_15: 5686691312706087942
+      6. shoot effect_16: 11821331196335445
+      6. shoot effect_17: 5562903901731770203
+      6. shoot effect_2: 7105806292402634782
+      6. shoot effect_3: -2378045686701967778
+      6. shoot effect_4: -4557584846137801266
+      6. shoot effect_5: -5213572850281219453
+      6. shoot effect_6: -1769150675062454970
+      6. shoot effect_7: 2012692042709032343
+      6. shoot effect_8: 5162980116974093294
+      6. shoot effect_9: -6267160522983196097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

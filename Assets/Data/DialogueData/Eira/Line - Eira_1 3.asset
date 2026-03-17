@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c539b9ff40cd278408618b6f444262a6, type: 3}
+  m_Name: Line - Eira_1 3
+  m_EditorClassIdentifier: 
+  dialogueGroupName: Eira
+  speaker: {fileID: 11400000, guid: 58d474507ce3ea547b0b128d0e4824ca, type: 2}
+  textLine:
+  - "Odin\u2019s fear of Ragnar\xF6k gave the outer god a chance to invade. Its power
+    fell upon the Nine Realms"
+  playerChoiceAnswer: What happened to Glasir? And those slime-like creatures?
+  choiceLines:
+  - {fileID: 11400000, guid: 58a132d241db5d84cb05fe4d63bfcd74, type: 2}
+  - {fileID: 11400000, guid: 8989fef43a170f948addb56367dce52d, type: 2}
+  actionLine: 
+  actionType: 1
