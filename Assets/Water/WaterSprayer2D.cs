@@ -79,7 +79,7 @@ public class WaterSprayer2D : MonoBehaviour
     {
         if (waterParticlePrefab == null) return;
 
-        if (Input.GetMouseButton(0))
+        if (Input.GetMouseButton(1))
         {
             spawnAccumulator += emitRate * Time.deltaTime;
             while (spawnAccumulator >= 1f)
